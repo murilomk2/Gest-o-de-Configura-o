@@ -1,0 +1,17 @@
+Benefícios da Gestão de Configuração
+
+Controle de Versões
+Com o GitHub, todas as alterações feitas nos artefatos do projeto são registradas, permitindo reverter versões anteriores em caso de erros ou mudanças indesejadas.
+
+Colaboração
+A plataforma permite que múltiplos membros da equipe trabalhem simultaneamente no projeto, compartilhando e editando os artefatos de forma colaborativa.
+
+Rastreabilidade
+Cada alteração nos artefatos do projeto pode ser rastreada, o que facilita a identificação de quem fez a mudança e por qual motivo.
+
+Segurança
+Os artefatos estão seguros na nuvem, evitando a perda de dados e garantindo que os arquivos estejam acessíveis a todos os membros da equipe, sem riscos de corrupção ou perda acidental.
+
+Conclusão
+
+A implementação de um repositório de artefatos utilizando GitHub é uma prática essencial para a boa governança de TI. Este repositório ajudará a equipe de desenvolvimento a manter os artefatos organizados, facilitará o trabalho colaborativo e permitirá o controle eficiente de versões, impactando positivamente nas áreas de Governança, ITIL, COBIT e ESG (Environmental, Social and Governance).
